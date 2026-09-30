@@ -38,8 +38,11 @@ class Program
         string arme2 = "épée";
         string arme3 = "fusil";
         string arme4 = "missile";
-        int prix1 = ("100");
-        prix1 = arme1;
+        int prix1 = (100);
+        int prix2 = (25);
+        int prix3 = (50);
+        int prix4 = (75);
+        Console.WriteLine("Voici 4 armes, laquelle veux-tu ?\n" + arme1  + "" + prix1 );
 
         // Etape 6 : laissez l'utilisateur choisir l'une de ces 4 armes en indiquant un nombre entre 1 et 4
 
