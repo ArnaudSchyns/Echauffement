@@ -34,6 +34,12 @@ class Program
         int euro = Convert.ToInt32(Console.ReadLine());
 
         // Etape 5 : affichez maintenant 4 choix d'armes avec chacune un prix
+        string arme1 = "couteau";
+        string arme2 = "épée";
+        string arme3 = "fusil";
+        string arme4 = "missile";
+        int prix1 = ("100");
+        prix1 = arme1;
 
         // Etape 6 : laissez l'utilisateur choisir l'une de ces 4 armes en indiquant un nombre entre 1 et 4
 
