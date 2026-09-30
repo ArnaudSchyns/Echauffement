@@ -42,7 +42,7 @@ class Program
         int prix2 = (25);
         int prix3 = (50);
         int prix4 = (75);
-        Console.WriteLine("Voici 4 armes, laquelle veux-tu ?\n" + arme1  + "" + prix1 );
+        Console.WriteLine("Voici 4 armes, laquelle veux-tu ?\n" + arme1  + " " + prix1 );
 
         // Etape 6 : laissez l'utilisateur choisir l'une de ces 4 armes en indiquant un nombre entre 1 et 4
 
